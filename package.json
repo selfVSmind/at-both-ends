@@ -1,0 +1,23 @@
+{
+  "name": "at-both-ends",
+  "version": "0.0.1",
+  "description": "Day trading software",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selfVSmind/at-both-ends.git"
+  },
+  "author": "Jason Lambert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/selfVSmind/at-both-ends/issues"
+  },
+  "homepage": "https://github.com/selfVSmind/at-both-ends#readme",
+  "dependencies": {
+    "d3": "^6.2.0",
+    "electron": "^10.1.5"
+  }
+}
